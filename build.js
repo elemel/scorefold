@@ -3,9 +3,9 @@ const path = require('path');
 const SVGIcons2SVGFontStream = require('svgicons2svgfont').default || require('svgicons2svgfont');
 const svg2ttf = require('svg2ttf');
 
-const FONT_NAME = 'Twenty Winks';
+const FONT_NAME = 'Scorefold';
 const GLYPHS_DIR = path.join(__dirname, 'glyphs');
-const FILE_NAME = 'twenty_winks';
+const FILE_NAME = 'scorefold';
 
 const fontStream = new SVGIcons2SVGFontStream({
   fontName: FONT_NAME,

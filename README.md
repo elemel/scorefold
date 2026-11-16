@@ -1,3 +1,3 @@
-# Twenty Winks
+# Scorefold
 
 Segmented font with limited glyphs
